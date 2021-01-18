@@ -32,6 +32,6 @@ Don't forget to:
 - Spend time to test and understand what the code is doing
 
 ## Results
-1. Was able to mine around 9,000 pages in 3 hours with new inserts every 1.2 seconds.  
+ - Was able to mine around 9,000 pages in 3 hours with new inserts every 1.2 seconds.  
 
 
